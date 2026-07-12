@@ -2,7 +2,7 @@
   "pelanggan": {
     "083188229366": {
       "no_pelanggan": "083188229366",
-      "total_transaksi": 3,
+      "total_transaksi": 4,
       "riwayat_pembelian": [
         {
           "produk": "Pulsa Rp 5.000",
@@ -24,6 +24,13 @@
           "tipe_pembayaran": "cash",
           "status_topup": "sukses",
           "waktu": "2026-07-12T17:36:48.615Z"
+        },
+        {
+          "produk": "Kuota Data 10 GB",
+          "harga": 35000,
+          "tipe_pembayaran": "cash",
+          "status_topup": "pending",
+          "waktu": "2026-07-12T17:54:02.463Z"
         }
       ]
     }
