@@ -2,15 +2,8 @@
   "pelanggan": {
     "083188229366": {
       "no_pelanggan": "083188229366",
-      "total_transaksi": 1,
-      "riwayat_pembelian": [
-        {
-          "produk": "Kuota Data 10 GB",
-          "harga": 35000,
-          "tipe_pembayaran": "cash",
-          "waktu": "2026-07-12T17:18:02.895Z"
-        }
-      ]
+      "total_transaksi": 0,
+      "riwayat_pembelian": []
     }
   }
 }
