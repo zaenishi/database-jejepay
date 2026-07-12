@@ -5,10 +5,10 @@
       "total_transaksi": 1,
       "riwayat_pembelian": [
         {
-          "produk": "Pulsa Rp 5.000",
-          "harga": 6500,
+          "produk": "Pulsa Rp 20.000",
+          "harga": 21500,
           "tipe_pembayaran": "cash",
-          "waktu": "2026-07-12T17:01:03.720Z"
+          "waktu": "2026-07-12T17:01:28.446Z"
         }
       ]
     }
