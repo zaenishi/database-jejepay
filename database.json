@@ -42,11 +42,15 @@
       ]
     },
     "undefined": {
-      "total_transaksi": 1,
+      "total_transaksi": 2,
       "riwayat_pembelian": [
         {
           "status_topup": "pending",
           "waktu": "2026-07-13T05:12:12.180Z"
+        },
+        {
+          "status_topup": "pending",
+          "waktu": "2026-07-13T19:28:18.473Z"
         }
       ]
     }
