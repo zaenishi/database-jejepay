@@ -26,6 +26,15 @@
           "waktu": "2026-07-13T05:08:09.448Z"
         }
       ]
+    },
+    "undefined": {
+      "total_transaksi": 1,
+      "riwayat_pembelian": [
+        {
+          "status_topup": "pending",
+          "waktu": "2026-07-13T05:12:12.180Z"
+        }
+      ]
     }
   }
 }
