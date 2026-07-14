@@ -12,6 +12,19 @@
           "waktu": "2026-07-14T13:43:32.654Z"
         }
       ]
+    },
+    "083188229366": {
+      "no_pelanggan": "083188229366",
+      "total_transaksi": 1,
+      "riwayat_pembelian": [
+        {
+          "produk": "Pulsa Rp 50.000",
+          "harga": 51500,
+          "tipe_pembayaran": "cash",
+          "status_topup": "pending",
+          "waktu": "2026-07-14T13:44:56.294Z"
+        }
+      ]
     }
   }
 }
